@@ -1,7 +1,7 @@
 Lawyerist Style Guide
 =====================
 
-This style guide covers just a few issues we commonly see. Please read it and follow it when writing for *Lawyerist.com*. For any other questions of style, refer to the *Chicago Manual of Style*.
+This style guide covers just a few issues we commonly see. It is brief because its purpose is to express some stylistic preferences, not to create a comprehensive (and onerous to follow) style guide. Please read it and follow it when writing for *Lawyerist.com*. For any other questions of style, refer to the *Chicago Manual of Style*.
 
 Index
 -----
