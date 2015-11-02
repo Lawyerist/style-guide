@@ -7,11 +7,8 @@ Index
 -----
 
 [Pronouns](#pronouns)
-
 [Punctuation](#punctuation)
-
 [Words to Avoid](#words-to-avoid)
-
 [Other Things to Avoid](#other-things-to-avoid)
 
 
@@ -65,11 +62,12 @@ Don’t over-use contractions.
 
 Here are words we don't want to see:
 
-**Instead of this** | **Use this**
-------------------- | ------------
-utilize             | use
-upon                | on
-oftentimes          | often
+Instead of this | Use this
+:-------------- | :-------
+leads           | potential clients
+oftentimes      | often
+utilize         | use
+upon            | on
 
 Other Things to Avoid
 ---------------------
