@@ -6,10 +6,10 @@ This style guide covers just a few issues we commonly see. It is brief because i
 Index
 -----
 
-[Pronouns](#pronouns)
-[Punctuation](#punctuation)
-[Words to Avoid](#words-to-avoid)
-[Other Things to Avoid](#other-things-to-avoid)
+* [Pronouns](#pronouns)
+* [Punctuation](#punctuation)
+* [Words to Avoid](#words-to-avoid)
+* [Other Things to Avoid](#other-things-to-avoid)
 
 
 Pronouns
