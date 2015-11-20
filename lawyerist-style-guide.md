@@ -3,6 +3,7 @@ Lawyerist Style Guide
 
 This style guide covers just a few issues we commonly see. It is brief because its purpose is to express some stylistic preferences, not to create a comprehensive (and onerous to follow) style guide. Please read it and follow it when writing for *Lawyerist.com*. For any other questions of style, refer to the *Chicago Manual of Style*.
 
+
 Index
 -----
 
@@ -14,19 +15,24 @@ Index
 
 Pronouns
 --------
+
 When you are writing about someone, use *he* or *she* if it is obvious, use the subject’s preferred pronoun if you know it or can discover it, or else use *they*/*their*.
 
 If you are giving an example in which gender is irrelevant or you just need a neutral pronoun, use *they*/*their*.
 
+
 Punctuation
 -----------
+
 ### Spaces Between Sentences
 
 Use only one space after a period/between sentences.
 
+
 ### Titles of Things
 
 Titles of books and websites (including blogs) go in italics. Titles of news articles, blog posts, and academic papers go in quotation marks.
+
 
 ### Dashes
 
@@ -42,6 +48,7 @@ Microsoft Word will automatically correct space-hyphen-space to an en dash. Word
 
 *Note: many people use space-hyphen-space in Word instead of a proper em dash. However, that creates an *en* dash, not an *em* dash. Please do it properly.*
 
+
 ### Ellipses
 
 The BlueBook says an ellipsis should be three periods with spaces between them, but that is actually a pain to do properly because you need to use non-breaking spaces to prevent the ellipsis from breaking at the end of a line. Plus, it just looks like you don't know how to type. Use a proper ellipsis character.
@@ -50,10 +57,18 @@ As with the em dash, use spaces on either side of an ellipsis. If the ellipsis e
 
 Word will automatically correct three periods without spaces between them to an ellipsis. So will WordPress. On a Mac, use ⌥;. You can long-press the period key on iOS.
 
+
 ### Capitalization
 
 Titles and headings should be capitalized using [title
 case](http://www.dailywritingtips.com/rules-for-capitalization-in-titles/) as outlined in the _Chicago Manual of Style_.
+
+### Inline Numbered Lists
+
+When you include a numbered list in a sentence, use full parentheses around the numbers, like so:
+
+> Problems are less likely to arise in this situation because the successor is: (1) experienced; (2) already being paid out of current revenue; and (3) already knows many of the clients or is fully capable of serving them.
+
 
 Words to Avoid
 --------------
@@ -68,6 +83,7 @@ leads           | potential clients
 oftentimes      | often
 utilize         | use
 upon            | on
+
 
 Other Things to Avoid
 ---------------------
