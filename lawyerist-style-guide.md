@@ -61,7 +61,7 @@ Word will automatically correct three periods without spaces between them to an 
 ### Capitalization
 
 Titles and headings should be capitalized using [title
-case](http://www.dailywritingtips.com/rules-for-capitalization-in-titles/) as outlined in the _Chicago Manual of Style_.
+case](http://www.dailywritingtips.com/rules-for-capitalization-in-titles/) as outlined in the _Chicago Manual of Style_. An exception to the title case rule is for how-to guides. The preposition "to" is always capitalized. 
 
 ### Inline Numbered Lists
 
