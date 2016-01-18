@@ -79,6 +79,7 @@ Here are words we don't want to see:
 
 Instead of this | Use this
 :-------------- | :-------
+dependent       | depends
 leads           | potential clients
 oftentimes      | often
 utilize         | use
