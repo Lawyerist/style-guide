@@ -1,7 +1,7 @@
 Lawyerist Style Guide
 =====================
 
-This style guide covers just a few issues we commonly see. It is brief because its purpose is to express some stylistic preferences, not to create a comprehensive (and onerous to follow) style guide. Please read it and follow it when writing for *Lawyerist.com*. For any other questions of style, refer to the *Chicago Manual of Style*.
+This style guide covers just a few issues we commonly see. It is brief because its purpose is to express some stylistic preferences, not to create a comprehensive (and onerous to follow) style guide. Please read it and follow it when writing for *Lawyerist*. For any other questions of style, refer to the *Chicago Manual of Style*.
 
 
 Index
@@ -40,22 +40,22 @@ Em dashes, en dashes, and hyphens serve different purposes, and you should use t
 
 An *em* dash—used to indicate a break in thought or shift in tone—should look like it does in this sentence: a long stroke *without* spaces between it and the words that surround it.
 
-Microsoft Word will automatically correct two hyphens to an em dash. In WordPress, use three hyphens. If you use a Mac, you can use ⌥⇧- to create an em dash. You can also long-press the hyphen key on iOS.
+Microsoft Word will automatically correct two hyphens to an em dash. In WordPress, use three hyphens. If you use a Mac, you can use **⌥⇧-** to create an em dash. You can also long-press the hyphen key on iOS.
 
 An *en* dash is for indicating a range, such as “2–4 posts per day,” and as a compound adjective hyphen, such as “Civil War–era.” In practice, most people just use a hyphen instead, so you never need to use an en dash if you don’t want to.
 
-Microsoft Word will automatically change space-hyphen-space to an en dash, and then you can remove the spaces manually. WordPress will, too, but if you need an en dash without spaces around it in WordPress, use two hyphens. On a Mac, use ⌥-, and you can long-press the hyphen key on iOS.
+Microsoft Word will automatically change space-hyphen-space to an en dash, and then you can remove the spaces manually. WordPress will, too, but if you need an en dash without spaces around it in WordPress, use two hyphens. On a Mac, use **⌥-**, and you can long-press the hyphen key on iOS.
 
-*Note: many people use space-hyphen-space in Word instead of a proper em dash. However, that creates an *en* dash, not an *em* dash. Please do it properly.*
+*Note: many people use space-hyphen-space in Word instead of a proper em dash. However, that creates an* en *dash, not an* em *dash. Please do it properly.*
 
 
 ### Ellipses
 
 The BlueBook says an ellipsis should be three periods with spaces between them, but that is actually a pain to do properly because you need to use non-breaking spaces to prevent the ellipsis from breaking at the end of a line. Plus, it just looks like you don't know how to type. Use a proper ellipsis character.
 
-As with the em dash, use spaces on either side of an ellipsis. If the ellipsis ends the sentence, include a period (or other punctuation mark) after the ellipsis.
+Use spaces on either side of an ellipsis. If the ellipsis ends the sentence, include a period (or other punctuation mark) after the ellipsis.
 
-Word will automatically correct three periods without spaces between them to an ellipsis. So will WordPress. On a Mac, use ⌥;. You can long-press the period key on iOS.
+Word will automatically correct three periods without spaces between them to an ellipsis. So will WordPress. On a Mac, use **⌥;**. You can long-press the period key on iOS.
 
 
 ### Capitalization
