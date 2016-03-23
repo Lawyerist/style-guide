@@ -82,6 +82,7 @@ Instead of this | Use this
 dependent       | depends
 leads           | potential clients
 oftentimes      | often
+someone that    | someone who
 utilize         | use
 upon            | on
 
