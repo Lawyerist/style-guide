@@ -1,7 +1,7 @@
 Lawyerist Style Guide
 =====================
 
-This style guide covers just a few issues we commonly see. It is brief because its purpose is to express some stylistic preferences, not to create a comprehensive (and onerous to follow) style guide. Please read it and follow it when writing for *Lawyerist*. For any other questions of style, refer to the *Chicago Manual of Style*.
+This style guide covers just a few issues we commonly see. It is brief because its purpose is to express some stylistic preferences, not to create a comprehensive (and onerous to follow) style guide. Please read it and follow it when writing for *Lawyerist*. For general questions of style, refer to the *Chicago Manual of Style*. For tutorials that involve technical terms and user interface elements, we follow the *Microsoft Manual of Style*.
 
 
 Index
@@ -9,6 +9,7 @@ Index
 
 * [Pronouns](#pronouns)
 * [Punctuation](#punctuation)
+* [Emphasis](#emphasis)
 * [Words to Avoid](#words-to-avoid)
 * [Other Things to Avoid](#other-things-to-avoid)
 
@@ -31,7 +32,7 @@ Use only one space after a period/between sentences.
 
 ### Titles of Things
 
-Titles of books and websites (including blogs) go in italics. Titles of news articles, blog posts, and academic papers go in quotation marks.
+Titles of books and websites (including blogs) should be italic. Titles of news articles, blog posts, and academic papers should be in quotation marks.
 
 
 ### Dashes
@@ -65,11 +66,25 @@ case](http://www.dailywritingtips.com/rules-for-capitalization-in-titles/) as ou
 
 Generally, the first letter after a colon should *not* be capitalized. This is an exception to the *Chicago Manual of Style*, which has a more complicated rule.
 
+Subject to the above exception, [this headline capitalization tool](https://headlinecapitalization.com/) makes it easy to capitalize titles and headings properly.
+
 ### Inline Numbered Lists
 
 When you include a numbered list in a sentence, use full parentheses around the numbers, like so:
 
 > Problems are less likely to arise in this situation because the successor is: (1) experienced; (2) already being paid out of current revenue; and (3) already knows many of the clients or is fully capable of serving them.
+
+
+Emphasis
+--------
+
+Use italics to call attention to word or phrases used as words rather than as a functional part of the sentence. For example:
+
+> It is nearly always better to use *on* than *upon*.
+
+Use quotation marks when giving an example of usage. For example:
+
+> Type "bitlocker" in the search box, then click the **Enter** key.
 
 
 Words to Avoid
