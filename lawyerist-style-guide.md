@@ -10,6 +10,7 @@ Index
 * [Pronouns](#pronouns)
 * [Punctuation](#punctuation)
 * [Emphasis](#emphasis)
+* [Spelling Preferences](#spelling-preferences)
 * [Words to Avoid](#words-to-avoid)
 * [Other Things to Avoid](#other-things-to-avoid)
 
@@ -85,6 +86,17 @@ Use italics to call attention to word or phrases used as words rather than as a 
 Use quotation marks when giving an example of usage. For example:
 
 > Type "bitlocker" in the search box, then click the **Enter** key.
+
+
+Spelling Preferences
+--------------------
+
+To the extent that words are commonly spelled differently in legal writing, we prefer that spelling.
+
+Instead of this | Use this
+:-------------- | :-------
+judgement       | judgment
+vs.             | v.
 
 
 Words to Avoid
