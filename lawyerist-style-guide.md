@@ -95,6 +95,7 @@ To the extent that words are commonly spelled differently in legal writing, we p
 
 Instead of this | Use this
 :-------------- | :-------
+Internet        | internet
 judgement       | judgment
 vs.             | v.
 
