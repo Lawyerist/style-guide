@@ -103,9 +103,7 @@ vs.             | v.
 Words to Avoid
 --------------
 
-Don’t over-use contractions.
-
-Here are words we don't want to see:
+Don’t over-use contractions. Here are other words we would prefer not to see:
 
 Instead of this | Use this
 :-------------- | :-------
@@ -115,6 +113,7 @@ oftentimes      | often
 someone that    | someone who
 utilize         | use
 upon            | on
+whom            | who
 
 
 Other Things to Avoid
