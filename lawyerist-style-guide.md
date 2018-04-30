@@ -105,15 +105,16 @@ Words to Avoid
 
 Don’t over-use contractions. Here are other words we would prefer not to see:
 
-Instead of this | Use this
-:-------------- | :-------
-dependent       | depends
-leads           | potential clients
-oftentimes      | often
-someone that    | someone who
-utilize         | use
-upon            | on
-whom            | who
+Instead of this     | Use this
+:------------------ | :-------
+dependent           | depends
+leads               | potential clients
+male/female lawyers | men/women lawyers
+oftentimes          | often
+someone that        | someone who
+utilize             | use
+upon                | on
+whom                | who
 
 
 Other Things to Avoid
